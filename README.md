@@ -1,2 +1,2 @@
 # Ecommerce_Website
-Tech-stack: Angular + Spring-Boot + MySQL
+Tech-stack: React.js + Spring-Boot + MySQL
